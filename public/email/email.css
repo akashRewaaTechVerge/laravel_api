@@ -1,0 +1,20 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    font-size:14px;
+    color: #333;
+}
+#table-wrap {
+    background:#fafafa;
+    border-bottom: 5px solid #eee;
+    border-top: 5px solid #EC4F48;
+}
+#site_logo{
+    background: #EC4F48; 
+    border-bottom: 2px solid #EC4F48;
+    -webkit-border-bottom-right-radius: 2px;
+    -webkit-border-bottom-left-radius: 2px;
+    -moz-border-radius-bottomright: 2px;
+    -moz-border-radius-bottomleft: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
